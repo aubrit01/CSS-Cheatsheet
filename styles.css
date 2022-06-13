@@ -27,3 +27,7 @@ thead {
 td {
   border-top: 1px solid DarkOliveGreen;
 }
+
+.code {
+  font-weight: bold;
+}
