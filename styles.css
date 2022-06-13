@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: Beige;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color: OliveDrab;
+  text-align: center;
+}
+
+table {
+  color: black;
+  border: 2px solid DarkOliveGreen;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: OliveDrab;
+}
+
+td {
+  border-top: 1px solid DarkOliveGreen;
+}
